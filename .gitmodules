@@ -1,0 +1,4 @@
+[submodule "nextjs-submodule"]
+	path = nextjs-submodule
+	url = https://github.com/andreluizlopes/nextjs-submodule
+	branch = master
